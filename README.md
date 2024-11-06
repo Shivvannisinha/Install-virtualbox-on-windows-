@@ -1,0 +1,1 @@
+Virtualbox is a powerful open source hypervisor for x86 virtualization .it is widely used due to its ease of use,flex,and support for a wide range of guest operating systems,including Linux,Windows and macOs.
